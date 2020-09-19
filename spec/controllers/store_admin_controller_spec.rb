@@ -22,4 +22,4 @@ RSpec.describe StoreAdminController, type: :controller do
 
 
 
-end
+
